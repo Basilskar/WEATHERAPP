@@ -168,7 +168,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 
 ## Team-mates 
 
-   1. Bhushan Songire [(LinkedIn)](linkedin.co/in/bhushan-songire)
+   1. Bhushan Songire 
    2. Basil Skaria
    3. Vedant Choudhari
    4. Ujjawal Kumar
@@ -179,8 +179,8 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 
 ### Contact
 
-   - **Email** - [bhushanbsongire@gmail.com](bhushanbsongire@gmail.com)
-   - **Git** - [Bbs1412](https://github.com/Bbs1412/)
+   - **Email** - [basilskaria@gmail.com(bhushanbsongire@gmail.com)
+   - **Git** - [Basilskar](https://github.com/Basilskar/)
 
 
 <!-- ## Acknowledgments -->
