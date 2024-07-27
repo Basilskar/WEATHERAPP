@@ -179,7 +179,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 
 ### Contact
 
-   - **Email** - [basilskaria@gmail.com(bhushanbsongire@gmail.com)
+   - **Email** - [basilskaria1960@gmail.com](bhushanbsongire@gmail.com)
    - **Git** - [Basilskar](https://github.com/Basilskar/)
 
 
